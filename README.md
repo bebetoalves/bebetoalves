@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 🔭 I am currently an intern at FitBank;
+- 🔭 I am currently an intern at Else Consultoria;
 
 ##### BIO
 
