@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 🔭 I am currently an intern at Else Consultoria;
+- 🔭 I am currently as PHP Developer at Else Consultoria;
 
 ##### BIO
 
